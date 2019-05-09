@@ -1,0 +1,38 @@
+body {
+  background: #e0ebe8;
+  margin: 0px;
+  text-align: center;
+  font-family: "Arapey", serif;
+  font-size: 25px;
+}
+
+h1 {
+  margin-top: 0px;
+  font-family: "Sofia", cursive;
+}
+
+h2 {
+  font-family: "Acme", sans-serif;
+}
+
+h3 {
+  font-family: "Acme", sans-serif;
+}
+
+.top-container {
+  margin-top: 50px;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
